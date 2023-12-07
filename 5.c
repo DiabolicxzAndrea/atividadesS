@@ -1,4 +1,4 @@
-float main() {
+int main() {
   float num1, num2, soma, subtracao, multiplicacao,divisao;
   printf("digite o primeiro numero");
   scanf("%f", &num1);
